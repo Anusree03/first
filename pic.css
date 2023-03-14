@@ -1,0 +1,26 @@
+.jimin{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-style: outset;
+    border-color: darkblue;
+    background-color: antiquewhite;
+}
+.jimin:hover{
+    background-color: black;
+}
+.imege{
+    height: 100px;
+    width: 100px;
+}
+.name{
+    margin-top: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: cyan;
+    font-weight: 100;
+    font-style: oblique;
+    font-stretch: semi-expanded;
+}

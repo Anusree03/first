@@ -1,0 +1,30 @@
+.box1{
+    background-color: chocolate;
+    color: yellowgreen;
+    height: 200px;
+    width: 200px;
+    margin-left:  55px;
+    padding-left: 20px;
+    border-style: double;
+    border-color: blue;
+}
+.box2{
+    background-color: royalblue;
+    color: chartreuse;
+    height: 200px;
+    width: 200px;
+    margin-left:  55px;
+    padding-left: 20px;
+    border-style: ridge;
+    border-color: blue;
+}
+.box3{
+    background-color: blanchedalmond;
+    color: aqua;
+    height: 200px;
+    width: 200px;
+    margin-left:  55px;
+    padding-left: 20px;
+    border-style: inset;
+    border-color: blue;
+}
